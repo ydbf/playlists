@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="c0c84d1e48df105c5b3614f21527a5a4">
+    <display-name>Burgos v Racing Ferrol - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="b8cedc6a95e9997749163192c8558419">
+    <display-name>Mlada Boleslav v FC Lugano - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="d6f17ad613ff83254338aa480234d4e9">
+    <display-name>Tenerife v Malaga - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="eb8beec89e2b6a5b52546590b716dce5">
+    <display-name>HJK helsinki v Dinamo Minsk - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="30a4162e54b7d3bdf294c1dc3107b478">
+    <display-name>Olimpija Ljubljana v Lask Linz - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="1778bbdb3c0e46850affc1336711f673">
+    <display-name>Real Betis v FC Copenhagen - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="390f4389a94a5ba4515a1a9820cc817f">
+    <display-name>Backa Topola v Legia Warszawa - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="35d2d281bcf9a743a945445561579991">
+    <display-name>The New Saints v Astana - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="81c62986a8b6fd2b7812b7904d26c5b3">
+    <display-name>Pafos v Heidenheim - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="d55b11413d69ba58583d75d211d5f782">
+    <display-name>Porto v TSG Hoffenheim - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="6c0d55d2996444e0d1c351efa1dc992f">
+    <display-name>Tottenham Hotspur v AZ - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="2d2b8063c801da5c50ec7831bc9e61ac">
+    <display-name>Olympique Lyonnais v Besiktas - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="747338abb15b01cd0923419551e6bdc8">
+    <display-name>Anderlecht v Ludogorets - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="879e8b907bed099d98b058510bd0e38b">
+    <display-name>Fenerbahce v Manchester United - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="e71ef365bdfe9d2be748903a6924e21c">
+    <display-name>Athletic Club v Slavia Praha - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="1725a72267a7236a93cfb8c910b01f20">
+    <display-name>Malmo FF v Olympiakos Piraeus - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="a60d7d5e169ea5bec624628c9764dc4c">
+    <display-name>Sporting Gijon v Huesca - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="5c703523479feb5692f158fbf77c5002">
+    <display-name>FC Twente v Lazio - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="34656026e6cd5b896f1b08398b0e290e">
+    <display-name>Rangers v FCSB - 06:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="e1e1a7c62a4cc5f53d9bc5e3b185d29d">
+    <display-name>Comerciantes Unidos v Sport Boys - 07:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="a17e54971fa32086670ad248591e6b0e">
+    <display-name>Honduras W v Guatemala W - 07:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="b8ef6c171a323092b2b595d54887835c">
+    <display-name>Envigado v Rionegro Aguilas - 08:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="67ba19420e0570e994c2ea0e50da34a9">
+    <display-name>Vasco DA Gama v Cuiaba - 09:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="59ea9e0f3116f3eb321f828fa66fc962">
+    <display-name>Huracan v Central Cordoba de Santiago - 09:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="3a1a17d902a2a6ec7d0fe417cfc789d2">
+    <display-name>Maybank Championship, First Round - 09:30 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/golf.png?raw=true" />
+  </channel>
+  <channel id="bc05bc35cd11ea4c679eccb7efcf6d50">
+    <display-name>Florida Panthers v New York Rangers - 10:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="2edfe685e3405a4253d579f04766986e">
+    <display-name>St. Louis Blues v Toronto Maple Leafs - 10:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="9371c4d91679894270efc377f618b9f8">
+    <display-name>New Jersey Devils v Detroit Red Wings - 10:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="f166f9b432957b33c0780648490ee627">
+    <display-name>Dallas Stars v Boston Bruins - 10:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="a9cff5414f71dd6b583c4bfe302c3b49">
+    <display-name>Minnesota Wild v Tampa Bay Lightning - 10:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="1c349df5791dd221dc3dd925294a5063">
+    <display-name>Boston Celtics v Washington Wizards - 10:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="9334a6f0223fb8976b51dcd67b3c2188">
+    <display-name>USA W v Iceland W - 10:30 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="64ce58becdf5ca9eec5b1c7c107b0c29">
+    <display-name>San Antonio Spurs v Dallas Mavericks - 10:30 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="b2ceea1b7dbe935622cbf9b43fd85383">
+    <display-name>Moca v Cavalier - 11:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="668c222c3bb6a68bdc9b6bdf3d4d87af">
+    <display-name>Minnesota Vikings v Los Angeles Rams - 11:00 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="9c662dffc183a291fdd33a029195cf67">
+    <display-name>Corinthians v Racing Club - 11:30 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="f89a4768edf72a6cf7ba68414ef8c574">
+    <display-name>Sport Recife v Guarani Campinas - 11:30 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="e870e5c5e7da0c82da158eb1480db8ae">
+    <display-name>Hisako Higuchi Mitsubishi Electric Ladies Golf Tournament Day 1 - 11:30 AM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/golf.png?raw=true" />
+  </channel>
+  <channel id="8b7372face70bee38db40827758f2dae">
+    <display-name>Correcaminos Uat v Tapatio - 12:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="fae8247b2882d68327755b562b3f6c60">
+    <display-name>Manuel Flores v Victor Olivo | Prelims &amp; Main Fight - 12:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/ydbf/playlists/main/images/bg/fighting.png" />
+  </channel>
+  <channel id="1bc89200d8c1c7081cb496a2e38a724a">
+    <display-name>Colorado Avalanche v Utah Hockey Club - 12:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="ce6b6c7b466fbd137678f1f407f137a5">
+    <display-name>Carolina Hurricanes v Calgary Flames - 12:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="9295ea3b670c0f22137b36409203ee21">
+    <display-name>Real Esteli v CS Herediano - 01:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/football.png?raw=true" />
+  </channel>
+  <channel id="14c4ec09e461b3b302c1637eea2427ef">
+    <display-name>Winnipeg Jets v Seattle Kraken - 01:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="a93b6ec7144f937a5d13723d673bd238">
+    <display-name>Minnesota Timberwolves v Sacramento Kings - 01:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="0ef814b0c5fbcc441f36e0218bb4e14f">
+    <display-name>Oklahoma City Thunder v Denver Nuggets - 01:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="f12a9b01fa2088f820844b9ce0ae9895">
+    <display-name>San Jose Sharks v Los Angeles Kings - 01:30 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="10180fa8f20844804a449f3b15b075b4">
+    <display-name>Zozo Championship, Second Round - 02:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/golf.png?raw=true" />
+  </channel>
+  <channel id="c3760018e9eb5380608e300cbd588542">
+    <display-name>Tokyo Open - Day 5 - 02:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/tennis.png?raw=true" />
+  </channel>
+  <channel id="5d8cec28b0cab35bf3053a020c58c538">
+    <display-name>India v New Zealand - 02:50 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/cricket.png?raw=true" />
+  </channel>
+  <channel id="f06f607f35198a9235317684fcdfbf2c">
+    <display-name>Pakistan v England - 03:30 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/cricket.png?raw=true" />
+  </channel>
+  <channel id="4c4fee361c8f832a0a8fdd87e43d8c89">
+    <display-name>Guangzhou Open - Day 5 - 04:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/tennis.png?raw=true" />
+  </channel>
+  <channel id="6504029f83b44307da305db49271c4fe">
+    <display-name>Dream11 ECC Challenger, 2024 | Group 1, Day 1 - 08:15 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/cricket.png?raw=true" />
+  </channel>
+  <channel id="01d7c4cd9678dcaf3d3980849532c9b9">
+    <display-name>Swimming WC: Korea Day 2 - 09:30 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="4eb1a29405693ca83935fbed0b92639e">
+    <display-name>Center Court - Swiss Indoors Basel - 11:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/tennis.png?raw=true" />
+  </channel>
+  <channel id="1217deda3db1825a20b9d87c75007012">
+    <display-name>Center Cour - Erste Bank Open - 11:00 PM AEDT - (25/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/tennis.png?raw=true" />
+  </channel>
+  <channel id="79211838c1c99ae628caeada9f8d2097">
+    <display-name>USA v Scotland - 03:30 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/cricket.png?raw=true" />
+  </channel>
+  <channel id="61244bbfa6ecab74137ec3cb4c09fa6b">
+    <display-name>2024 Machineseeker European Championship Day Two - 03:45 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/darts.PNG?raw=true" />
+  </channel>
+  <channel id="aadc3421b53956c9ad38c6f80bb5c2e6">
+    <display-name>2024 Machineseeker European Championship Day One - 04:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/darts.PNG?raw=true" />
+  </channel>
+  <channel id="47e1aa9e567c50e58efb53bb3a84c4af">
+    <display-name>Fenerbahce Beko Istanbul v Panathinaikos AKTOR Athens - 04:45 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="b6e125454a484c46c59aad6c7c19bb8b">
+    <display-name>FC Barcelona v LDLC ASVEL Villeurbanne - 05:30 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="dd0f30fadef0736388e3a8d3275aff79">
+    <display-name>FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2024 Mexico City:Friday practice Zone - 05:30 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/motor.png?raw=true" />
+  </channel>
+  <channel id="0e579df264c13ce45c04488034e64189">
+    <display-name>Bristol v Northampton - 05:30 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="d3389c6fe3e63a51cff55e5ccbbc918d">
+    <display-name>Benetton Rugby v Vodacom Bulls - 05:30 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="cca18ea584f9f1f469ec6f80a1124d14">
+    <display-name>FC Bayern Munich v Olympiacos Piraeus - 05:45 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="dd9a0ae594db0c67dea5eeb049f00b0a">
+    <display-name>Simmons Bank Championship, First Round - 06:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/golf.png?raw=true" />
+  </channel>
+  <channel id="0b0d479c269b586ed1a6ae4bcd62f4f7">
+    <display-name>Ottawa Senators v Vegas Golden Knights - 09:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="0ae8e8ef57faeb9a2ff112b3624eb996">
+    <display-name>FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2024 Mexico City : Friday practice 2 - 09:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/motor.png?raw=true" />
+  </channel>
+  <channel id="86f637c8f165907ce25af7138de6c275">
+    <display-name>Maybank Championship, Second Round - 09:30 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/golf.png?raw=true" />
+  </channel>
+  <channel id="38c56b4ad74d28b8ce0c87cf5bd4d29b">
+    <display-name>Ellis v Chaves - 10:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/ydbf/playlists/main/images/bg/fighting.png" />
+  </channel>
+  <channel id="d67068d3df1b71ce78ce8ef5858c8177">
+    <display-name>New York Islanders v New Jersey Devils - 10:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="52278e5297f7c28a355ae7d92dc6b562">
+    <display-name>Charlottetown v Baie-Comeau - 10:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="83ba33dcabdc6bd640f9573859a04532">
+    <display-name>Moncton v Drummondville - 10:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="d336fab85b8241663391491d8405acc1">
+    <display-name>Blainville-Boisbriand v Gatineau - 10:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="115465e4d4c2a5f66af21c3f84c0db93">
+    <display-name>Philadelphia 76ers v Toronto Raptors - 10:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="f482fc03a6d78930663fe0457ec26103">
+    <display-name>Brooklyn Nets v Orlando Magic - 10:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="5b8a242c8fa8062091462189d5e26a60">
+    <display-name>Detroit Pistons v Cleveland Cavaliers - 10:30 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="1a9aff784b672c20082656e4ff5cac45">
+    <display-name>Charlotte Hornets v Atlanta Hawks - 10:30 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="96043f229765410b713d0da9d6d79244">
+    <display-name>Indiana Pacers v New York Knicks - 10:30 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="034f5ba4b9e62d7fe93f3ddab9733535">
+    <display-name>Flex Fight Series - 11:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/ydbf/playlists/main/images/bg/fighting.png" />
+  </channel>
+  <channel id="bdd191c2ca5d737e4fb729473d17c1ac">
+    <display-name>BKFC 67: Camozzi v Depee - Prelims - 11:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/ydbf/playlists/main/images/bg/fighting.png" />
+  </channel>
+  <channel id="b70313dc32d3e6039b68cc951d7efb3a">
+    <display-name>Chicago Bulls v Milwaukee Bucks - 11:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="a5b174dc5a47a98e98a90356066d2c13">
+    <display-name>Memphis Grizzlies v Houston Rockets - 11:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="1af716ae6c64225183cdbb9635a4eaaa">
+    <display-name>New York Yankees v Los Angeles Dodgers - 11:00 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/baseball.png?raw=true" />
+  </channel>
+  <channel id="62aff7286962e8bdc0885458276ea358">
+    <display-name>Nashville Predators v Chicago Blackhawks - 11:30 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="684dbe076c13c4f8f91cceddf805e3ef">
+    <display-name>Hisako Higuchi Mitsubishi Electric Ladies Golf Tournament Day 2 - 11:30 AM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/golf.png?raw=true" />
+  </channel>
+  <channel id="b47a810e4615cc19aa1f0fd6d0f101fc">
+    <display-name>BKFC 67: Camozzi v Depee - 12:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/ydbf/playlists/main/images/bg/fighting.png" />
+  </channel>
+  <channel id="eed26d0670c5c87ef84dd939375992b7">
+    <display-name>Seattle v Prince Albert - 12:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="c0b74ac2a5d2216d81d6c7137f8af3a6">
+    <display-name>Medicine Hat v Red Deer - 12:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="e9328b6a952847b97bfa053ddc08468d">
+    <display-name>Pittsburgh Penguins v Edmonton Oilers - 12:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="9e32a73f3f60d67043b11c142fbe65a4">
+    <display-name>Golden State Warriors v Utah Jazz - 12:30 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="17d4fb343b54e34badc60df680beca6b">
+    <display-name>LFA 195 - 01:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/ydbf/playlists/main/images/bg/fighting.png" />
+  </channel>
+  <channel id="0e0b53751219416138c6fec7116636f8">
+    <display-name>Victoria v Prince George - 01:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="5ff0a10bb17788ff95b4b45d317a73cf">
+    <display-name>Phoenix Suns v Los Angeles Lakers - 01:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="6bfc15d4a7afca026fe6645ce6a8577b">
+    <display-name>New Orleans Pelicans v Portland Trail Blazers - 01:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="5c5707d89fa97ff2a70d40e5bb460daf">
+    <display-name>Vancouver v Spokane - 01:05 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="c33c93100619b9c4a0536b104b3f58ec">
+    <display-name>Reds v Rebels - 01:30 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="cca74f0ee798d35ed6d92a7e3b594b4b">
+    <display-name>Lethbridge v Swift Current - 02:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/hockey.png?raw=true" />
+  </channel>
+  <channel id="c74ca7075ae5d3b57f015f34c81cc1d8">
+    <display-name>Zozo Championship, Third Round - 02:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/golf.png?raw=true" />
+  </channel>
+  <channel id="c7f73cf55c697eebe85d056b75e2cfbb">
+    <display-name>India v New Zealand - 02:50 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/cricket.png?raw=true" />
+  </channel>
+  <channel id="b2b1c0d82beae64e70a109ae55f14f1c">
+    <display-name>Pakistan v England - 03:30 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/cricket.png?raw=true" />
+  </channel>
+  <channel id="98342d1aa51f25b1275c990d1663c4ec">
+    <display-name>Port Adelaide Power v Gold Coast Suns - 04:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="fdcd7158a86854ab43d489b0932324f9">
+    <display-name>New Zealand Breakers v Adelaide 36ers - 04:30 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="574442f1c8de1f6dcec47550469ba5fa">
+    <display-name>Japan v New Zealand - 05:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="03720ca315eceb1f24908efad675638f">
+    <display-name>Geelong Cats v West Coast Eagles - 06:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="17435b0aca55b81dfe9dd75055f68b8c">
+    <display-name>Illawarra Hawks v Cairns Taipans - 06:30 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="dbdeae5f79b131a70c0c8332ec554ba1">
+    <display-name>Sri Lanka v West Indies - 08:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/cricket.png?raw=true" />
+  </channel>
+  <channel id="39cc777fc77dc09832de4d13368a6a44">
+    <display-name>Betvictor: N Ireland Open Day 6 - Table 1 - 08:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/billiards.png?raw=true" />
+  </channel>
+  <channel id="c4338eb1b928ea6270d4b8b337a8a7cd">
+    <display-name>Betvictor: N Ireland Open Day 6 - Table 2 - 08:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/billiards.png?raw=true" />
+  </channel>
+  <channel id="12f074d5e278ef8739a1cdfceb95b6db">
+    <display-name>Richmond Tigers v Essendon Bombers - 08:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="9dd5b6f0c7118862bd0b99f8cd91ae84">
+    <display-name>Dream11 ECC Challenger, 2024 | Group 1, Day 1 - 08:15 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/cricket.png?raw=true" />
+  </channel>
+  <channel id="5abab273b94e339c8f52d8535490697d">
+    <display-name>Swimming WC: Korea Day 3 - 09:30 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/basketball.png?raw=true" />
+  </channel>
+  <channel id="bc4ba61a178457837554d3eee062439c">
+    <display-name>DHL Stormers v Glasgow Warriors - 10:45 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="2402d7b7938ccc37a08c6d94049768ac">
+    <display-name>Center Cour - Erste Bank Open - 11:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/tennis.png?raw=true" />
+  </channel>
+  <channel id="b5e92f4c8327bb78290ab5d73eb51436">
+    <display-name>Center Court - Swiss Indoors Basel - 11:00 PM AEDT - (26/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/tennis.png?raw=true" />
+  </channel>
+  <channel id="f582064712b84d5a8cf9ec8883cfa3d9">
+    <display-name>UFC 308: PRELIMS - 01:00 AM AEDT - (27/10/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/ydbf/playlists/main/images/bg/fighting.png" />
+  </channel>
+  <channel id="1778ce75fe981a85267c1cb263fff01d">
+    <display-name>KOK WORLD SERIES IN SLOVAKIA - 03:00 AM AEDT - (27/10/2024)</display-name>
+    <icon src="https://raw.githubusercontent.com/ydbf/playlists/main/images/bg/fighting.png" />
+  </channel>
+  <channel id="c53fb3a04de193ace5e39b5392f7ced4">
+    <display-name>NASCAR Craftsman Truck Series Playoff Race at Homestead-Miami - 03:00 AM AEDT - (27/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/motor.png?raw=true" />
+  </channel>
+  <channel id="215e43c5af86913a2661e2a2f21aab3c">
+    <display-name>Leinster v Emirates Lions - 03:15 AM AEDT - (27/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <channel id="254e456dbfda003f8a4f78a0afba5a8e">
+    <display-name>Saracens v Leicester - 03:30 AM AEDT - (27/10/2024)</display-name>
+    <icon src="https://github.com/ydbf/playlists/blob/main/images/bg/rugby.png?raw=true" />
+  </channel>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="c0c84d1e48df105c5b3614f21527a5a4">
+    <title>Burgos v Racing Ferrol - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="b8cedc6a95e9997749163192c8558419">
+    <title>Mlada Boleslav v FC Lugano - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="d6f17ad613ff83254338aa480234d4e9">
+    <title>Tenerife v Malaga - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="eb8beec89e2b6a5b52546590b716dce5">
+    <title>HJK helsinki v Dinamo Minsk - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="30a4162e54b7d3bdf294c1dc3107b478">
+    <title>Olimpija Ljubljana v Lask Linz - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="1778bbdb3c0e46850affc1336711f673">
+    <title>Real Betis v FC Copenhagen - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="390f4389a94a5ba4515a1a9820cc817f">
+    <title>Backa Topola v Legia Warszawa - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="35d2d281bcf9a743a945445561579991">
+    <title>The New Saints v Astana - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="81c62986a8b6fd2b7812b7904d26c5b3">
+    <title>Pafos v Heidenheim - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="d55b11413d69ba58583d75d211d5f782">
+    <title>Porto v TSG Hoffenheim - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="6c0d55d2996444e0d1c351efa1dc992f">
+    <title>Tottenham Hotspur v AZ - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="2d2b8063c801da5c50ec7831bc9e61ac">
+    <title>Olympique Lyonnais v Besiktas - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="747338abb15b01cd0923419551e6bdc8">
+    <title>Anderlecht v Ludogorets - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="879e8b907bed099d98b058510bd0e38b">
+    <title>Fenerbahce v Manchester United - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="e71ef365bdfe9d2be748903a6924e21c">
+    <title>Athletic Club v Slavia Praha - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="1725a72267a7236a93cfb8c910b01f20">
+    <title>Malmo FF v Olympiakos Piraeus - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="a60d7d5e169ea5bec624628c9764dc4c">
+    <title>Sporting Gijon v Huesca - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="5c703523479feb5692f158fbf77c5002">
+    <title>FC Twente v Lazio - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="34656026e6cd5b896f1b08398b0e290e">
+    <title>Rangers v FCSB - 06:00 AM AEDT - (25/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/25/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="e1e1a7c62a4cc5f53d9bc5e3b185d29d">
+    <title>Comerciantes Unidos v Sport Boys - 07:00 AM AEDT - (25/10/2024)</title>
+    <desc>04:00 PM EDT / 02:00 PM MDT / 07:00 AM AEDT - (10/25/2024)
+09:00 PM BST / 10:00 PM CEST / 04:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="a17e54971fa32086670ad248591e6b0e">
+    <title>Honduras W v Guatemala W - 07:00 AM AEDT - (25/10/2024)</title>
+    <desc>04:00 PM EDT / 02:00 PM MDT / 07:00 AM AEDT - (10/25/2024)
+09:00 PM BST / 10:00 PM CEST / 04:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="b8ef6c171a323092b2b595d54887835c">
+    <title>Envigado v Rionegro Aguilas - 08:00 AM AEDT - (25/10/2024)</title>
+    <desc>05:00 PM EDT / 03:00 PM MDT / 08:00 AM AEDT - (10/25/2024)
+10:00 PM BST / 11:00 PM CEST / 05:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="67ba19420e0570e994c2ea0e50da34a9">
+    <title>Vasco DA Gama v Cuiaba - 09:00 AM AEDT - (25/10/2024)</title>
+    <desc>06:00 PM EDT / 04:00 PM MDT / 09:00 AM AEDT - (10/25/2024)
+11:00 PM BST / 12:00 AM CEST / 06:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="59ea9e0f3116f3eb321f828fa66fc962">
+    <title>Huracan v Central Cordoba de Santiago - 09:00 AM AEDT - (25/10/2024)</title>
+    <desc>06:00 PM EDT / 04:00 PM MDT / 09:00 AM AEDT - (10/25/2024)
+11:00 PM BST / 12:00 AM CEST / 06:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="3a1a17d902a2a6ec7d0fe417cfc789d2">
+    <title>Maybank Championship, First Round - 09:30 AM AEDT - (25/10/2024)</title>
+    <desc>06:30 PM EDT / 04:30 PM MDT / 09:30 AM AEDT - (10/25/2024)
+11:30 PM BST / 12:30 AM CEST / 06:30 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="bc05bc35cd11ea4c679eccb7efcf6d50">
+    <title>Florida Panthers v New York Rangers - 10:00 AM AEDT - (25/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/25/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="2edfe685e3405a4253d579f04766986e">
+    <title>St. Louis Blues v Toronto Maple Leafs - 10:00 AM AEDT - (25/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/25/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="9371c4d91679894270efc377f618b9f8">
+    <title>New Jersey Devils v Detroit Red Wings - 10:00 AM AEDT - (25/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/25/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="f166f9b432957b33c0780648490ee627">
+    <title>Dallas Stars v Boston Bruins - 10:00 AM AEDT - (25/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/25/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="a9cff5414f71dd6b583c4bfe302c3b49">
+    <title>Minnesota Wild v Tampa Bay Lightning - 10:00 AM AEDT - (25/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/25/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="1c349df5791dd221dc3dd925294a5063">
+    <title>Boston Celtics v Washington Wizards - 10:00 AM AEDT - (25/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/25/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="9334a6f0223fb8976b51dcd67b3c2188">
+    <title>USA W v Iceland W - 10:30 AM AEDT - (25/10/2024)</title>
+    <desc>07:30 PM EDT / 05:30 PM MDT / 10:30 AM AEDT - (10/25/2024)
+12:30 AM BST / 01:30 AM CEST / 07:30 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="64ce58becdf5ca9eec5b1c7c107b0c29">
+    <title>San Antonio Spurs v Dallas Mavericks - 10:30 AM AEDT - (25/10/2024)</title>
+    <desc>07:30 PM EDT / 05:30 PM MDT / 10:30 AM AEDT - (10/25/2024)
+12:30 AM BST / 01:30 AM CEST / 07:30 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="b2ceea1b7dbe935622cbf9b43fd85383">
+    <title>Moca v Cavalier - 11:00 AM AEDT - (25/10/2024)</title>
+    <desc>08:00 PM EDT / 06:00 PM MDT / 11:00 AM AEDT - (10/25/2024)
+01:00 AM BST / 02:00 AM CEST / 08:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="668c222c3bb6a68bdc9b6bdf3d4d87af">
+    <title>Minnesota Vikings v Los Angeles Rams - 11:00 AM AEDT - (25/10/2024)</title>
+    <desc>08:00 PM EDT / 06:00 PM MDT / 11:00 AM AEDT - (10/25/2024)
+01:00 AM BST / 02:00 AM CEST / 08:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="9c662dffc183a291fdd33a029195cf67">
+    <title>Corinthians v Racing Club - 11:30 AM AEDT - (25/10/2024)</title>
+    <desc>08:30 PM EDT / 06:30 PM MDT / 11:30 AM AEDT - (10/25/2024)
+01:30 AM BST / 02:30 AM CEST / 08:30 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="f89a4768edf72a6cf7ba68414ef8c574">
+    <title>Sport Recife v Guarani Campinas - 11:30 AM AEDT - (25/10/2024)</title>
+    <desc>08:30 PM EDT / 06:30 PM MDT / 11:30 AM AEDT - (10/25/2024)
+01:30 AM BST / 02:30 AM CEST / 08:30 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="e870e5c5e7da0c82da158eb1480db8ae">
+    <title>Hisako Higuchi Mitsubishi Electric Ladies Golf Tournament Day 1 - 11:30 AM AEDT - (25/10/2024)</title>
+    <desc>08:30 PM EDT / 06:30 PM MDT / 11:30 AM AEDT - (10/25/2024)
+01:30 AM BST / 02:30 AM CEST / 08:30 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="8b7372face70bee38db40827758f2dae">
+    <title>Correcaminos Uat v Tapatio - 12:00 PM AEDT - (25/10/2024)</title>
+    <desc>09:00 PM EDT / 07:00 PM MDT / 12:00 PM AEDT - (10/25/2024)
+02:00 AM BST / 03:00 AM CEST / 09:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="fae8247b2882d68327755b562b3f6c60">
+    <title>Manuel Flores v Victor Olivo | Prelims &amp; Main Fight - 12:00 PM AEDT - (25/10/2024)</title>
+    <desc>09:00 PM EDT / 07:00 PM MDT / 12:00 PM AEDT - (10/25/2024)
+02:00 AM BST / 03:00 AM CEST / 09:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="1bc89200d8c1c7081cb496a2e38a724a">
+    <title>Colorado Avalanche v Utah Hockey Club - 12:00 PM AEDT - (25/10/2024)</title>
+    <desc>09:00 PM EDT / 07:00 PM MDT / 12:00 PM AEDT - (10/25/2024)
+02:00 AM BST / 03:00 AM CEST / 09:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="ce6b6c7b466fbd137678f1f407f137a5">
+    <title>Carolina Hurricanes v Calgary Flames - 12:00 PM AEDT - (25/10/2024)</title>
+    <desc>09:00 PM EDT / 07:00 PM MDT / 12:00 PM AEDT - (10/25/2024)
+02:00 AM BST / 03:00 AM CEST / 09:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="9295ea3b670c0f22137b36409203ee21">
+    <title>Real Esteli v CS Herediano - 01:00 PM AEDT - (25/10/2024)</title>
+    <desc>10:00 PM EDT / 08:00 PM MDT / 01:00 PM AEDT - (10/25/2024)
+03:00 AM BST / 04:00 AM CEST / 10:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="14c4ec09e461b3b302c1637eea2427ef">
+    <title>Winnipeg Jets v Seattle Kraken - 01:00 PM AEDT - (25/10/2024)</title>
+    <desc>10:00 PM EDT / 08:00 PM MDT / 01:00 PM AEDT - (10/25/2024)
+03:00 AM BST / 04:00 AM CEST / 10:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="a93b6ec7144f937a5d13723d673bd238">
+    <title>Minnesota Timberwolves v Sacramento Kings - 01:00 PM AEDT - (25/10/2024)</title>
+    <desc>10:00 PM EDT / 08:00 PM MDT / 01:00 PM AEDT - (10/25/2024)
+03:00 AM BST / 04:00 AM CEST / 10:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="0ef814b0c5fbcc441f36e0218bb4e14f">
+    <title>Oklahoma City Thunder v Denver Nuggets - 01:00 PM AEDT - (25/10/2024)</title>
+    <desc>10:00 PM EDT / 08:00 PM MDT / 01:00 PM AEDT - (10/25/2024)
+03:00 AM BST / 04:00 AM CEST / 10:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="f12a9b01fa2088f820844b9ce0ae9895">
+    <title>San Jose Sharks v Los Angeles Kings - 01:30 PM AEDT - (25/10/2024)</title>
+    <desc>10:30 PM EDT / 08:30 PM MDT / 01:30 PM AEDT - (10/25/2024)
+03:30 AM BST / 04:30 AM CEST / 10:30 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="10180fa8f20844804a449f3b15b075b4">
+    <title>Zozo Championship, Second Round - 02:00 PM AEDT - (25/10/2024)</title>
+    <desc>11:00 PM EDT / 09:00 PM MDT / 02:00 PM AEDT - (10/25/2024)
+04:00 AM BST / 05:00 AM CEST / 11:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="c3760018e9eb5380608e300cbd588542">
+    <title>Tokyo Open - Day 5 - 02:00 PM AEDT - (25/10/2024)</title>
+    <desc>11:00 PM EDT / 09:00 PM MDT / 02:00 PM AEDT - (10/25/2024)
+04:00 AM BST / 05:00 AM CEST / 11:00 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="5d8cec28b0cab35bf3053a020c58c538">
+    <title>India v New Zealand - 02:50 PM AEDT - (25/10/2024)</title>
+    <desc>11:50 PM EDT / 09:50 PM MDT / 02:50 PM AEDT - (10/25/2024)
+04:50 AM BST / 05:50 AM CEST / 11:50 AM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="f06f607f35198a9235317684fcdfbf2c">
+    <title>Pakistan v England - 03:30 PM AEDT - (25/10/2024)</title>
+    <desc>12:30 AM EDT / 10:30 PM MDT / 03:30 PM AEDT - (10/25/2024)
+05:30 AM BST / 06:30 AM CEST / 12:30 PM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="4c4fee361c8f832a0a8fdd87e43d8c89">
+    <title>Guangzhou Open - Day 5 - 04:00 PM AEDT - (25/10/2024)</title>
+    <desc>01:00 AM EDT / 11:00 PM MDT / 04:00 PM AEDT - (10/25/2024)
+06:00 AM BST / 07:00 AM CEST / 01:00 PM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="6504029f83b44307da305db49271c4fe">
+    <title>Dream11 ECC Challenger, 2024 | Group 1, Day 1 - 08:15 PM AEDT - (25/10/2024)</title>
+    <desc>05:15 AM EDT / 03:15 AM MDT / 08:15 PM AEDT - (10/25/2024)
+10:15 AM BST / 11:15 AM CEST / 05:15 PM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="01d7c4cd9678dcaf3d3980849532c9b9">
+    <title>Swimming WC: Korea Day 2 - 09:30 PM AEDT - (25/10/2024)</title>
+    <desc>06:30 AM EDT / 04:30 AM MDT / 09:30 PM AEDT - (10/25/2024)
+11:30 AM BST / 12:30 PM CEST / 06:30 PM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="4eb1a29405693ca83935fbed0b92639e">
+    <title>Center Court - Swiss Indoors Basel - 11:00 PM AEDT - (25/10/2024)</title>
+    <desc>08:00 AM EDT / 06:00 AM MDT / 11:00 PM AEDT - (10/25/2024)
+01:00 PM BST / 02:00 PM CEST / 08:00 PM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="1217deda3db1825a20b9d87c75007012">
+    <title>Center Cour - Erste Bank Open - 11:00 PM AEDT - (25/10/2024)</title>
+    <desc>08:00 AM EDT / 06:00 AM MDT / 11:00 PM AEDT - (10/25/2024)
+01:00 PM BST / 02:00 PM CEST / 08:00 PM CST - (10/25/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="79211838c1c99ae628caeada9f8d2097">
+    <title>USA v Scotland - 03:30 AM AEDT - (26/10/2024)</title>
+    <desc>12:30 PM EDT / 10:30 AM MDT / 03:30 AM AEDT - (10/26/2024)
+05:30 PM BST / 06:30 PM CEST / 12:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="61244bbfa6ecab74137ec3cb4c09fa6b">
+    <title>2024 Machineseeker European Championship Day Two - 03:45 AM AEDT - (26/10/2024)</title>
+    <desc>12:45 PM EDT / 10:45 AM MDT / 03:45 AM AEDT - (10/26/2024)
+05:45 PM BST / 06:45 PM CEST / 12:45 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="aadc3421b53956c9ad38c6f80bb5c2e6">
+    <title>2024 Machineseeker European Championship Day One - 04:00 AM AEDT - (26/10/2024)</title>
+    <desc>01:00 PM EDT / 11:00 AM MDT / 04:00 AM AEDT - (10/26/2024)
+06:00 PM BST / 07:00 PM CEST / 01:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="47e1aa9e567c50e58efb53bb3a84c4af">
+    <title>Fenerbahce Beko Istanbul v Panathinaikos AKTOR Athens - 04:45 AM AEDT - (26/10/2024)</title>
+    <desc>01:45 PM EDT / 11:45 AM MDT / 04:45 AM AEDT - (10/26/2024)
+06:45 PM BST / 07:45 PM CEST / 01:45 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="b6e125454a484c46c59aad6c7c19bb8b">
+    <title>FC Barcelona v LDLC ASVEL Villeurbanne - 05:30 AM AEDT - (26/10/2024)</title>
+    <desc>02:30 PM EDT / 12:30 PM MDT / 05:30 AM AEDT - (10/26/2024)
+07:30 PM BST / 08:30 PM CEST / 02:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="dd0f30fadef0736388e3a8d3275aff79">
+    <title>FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2024 Mexico City:Friday practice Zone - 05:30 AM AEDT - (26/10/2024)</title>
+    <desc>02:30 PM EDT / 12:30 PM MDT / 05:30 AM AEDT - (10/26/2024)
+07:30 PM BST / 08:30 PM CEST / 02:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="0e579df264c13ce45c04488034e64189">
+    <title>Bristol v Northampton - 05:30 AM AEDT - (26/10/2024)</title>
+    <desc>02:30 PM EDT / 12:30 PM MDT / 05:30 AM AEDT - (10/26/2024)
+07:30 PM BST / 08:30 PM CEST / 02:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="d3389c6fe3e63a51cff55e5ccbbc918d">
+    <title>Benetton Rugby v Vodacom Bulls - 05:30 AM AEDT - (26/10/2024)</title>
+    <desc>02:30 PM EDT / 12:30 PM MDT / 05:30 AM AEDT - (10/26/2024)
+07:30 PM BST / 08:30 PM CEST / 02:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="cca18ea584f9f1f469ec6f80a1124d14">
+    <title>FC Bayern Munich v Olympiacos Piraeus - 05:45 AM AEDT - (26/10/2024)</title>
+    <desc>02:45 PM EDT / 12:45 PM MDT / 05:45 AM AEDT - (10/26/2024)
+07:45 PM BST / 08:45 PM CEST / 02:45 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="dd9a0ae594db0c67dea5eeb049f00b0a">
+    <title>Simmons Bank Championship, First Round - 06:00 AM AEDT - (26/10/2024)</title>
+    <desc>03:00 PM EDT / 01:00 PM MDT / 06:00 AM AEDT - (10/26/2024)
+08:00 PM BST / 09:00 PM CEST / 03:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="0b0d479c269b586ed1a6ae4bcd62f4f7">
+    <title>Ottawa Senators v Vegas Golden Knights - 09:00 AM AEDT - (26/10/2024)</title>
+    <desc>06:00 PM EDT / 04:00 PM MDT / 09:00 AM AEDT - (10/26/2024)
+11:00 PM BST / 12:00 AM CEST / 06:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="0ae8e8ef57faeb9a2ff112b3624eb996">
+    <title>FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2024 Mexico City : Friday practice 2 - 09:00 AM AEDT - (26/10/2024)</title>
+    <desc>06:00 PM EDT / 04:00 PM MDT / 09:00 AM AEDT - (10/26/2024)
+11:00 PM BST / 12:00 AM CEST / 06:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="86f637c8f165907ce25af7138de6c275">
+    <title>Maybank Championship, Second Round - 09:30 AM AEDT - (26/10/2024)</title>
+    <desc>06:30 PM EDT / 04:30 PM MDT / 09:30 AM AEDT - (10/26/2024)
+11:30 PM BST / 12:30 AM CEST / 06:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="38c56b4ad74d28b8ce0c87cf5bd4d29b">
+    <title>Ellis v Chaves - 10:00 AM AEDT - (26/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/26/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="d67068d3df1b71ce78ce8ef5858c8177">
+    <title>New York Islanders v New Jersey Devils - 10:00 AM AEDT - (26/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/26/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="52278e5297f7c28a355ae7d92dc6b562">
+    <title>Charlottetown v Baie-Comeau - 10:00 AM AEDT - (26/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/26/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="83ba33dcabdc6bd640f9573859a04532">
+    <title>Moncton v Drummondville - 10:00 AM AEDT - (26/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/26/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="d336fab85b8241663391491d8405acc1">
+    <title>Blainville-Boisbriand v Gatineau - 10:00 AM AEDT - (26/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/26/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="115465e4d4c2a5f66af21c3f84c0db93">
+    <title>Philadelphia 76ers v Toronto Raptors - 10:00 AM AEDT - (26/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/26/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="f482fc03a6d78930663fe0457ec26103">
+    <title>Brooklyn Nets v Orlando Magic - 10:00 AM AEDT - (26/10/2024)</title>
+    <desc>07:00 PM EDT / 05:00 PM MDT / 10:00 AM AEDT - (10/26/2024)
+12:00 AM BST / 01:00 AM CEST / 07:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="5b8a242c8fa8062091462189d5e26a60">
+    <title>Detroit Pistons v Cleveland Cavaliers - 10:30 AM AEDT - (26/10/2024)</title>
+    <desc>07:30 PM EDT / 05:30 PM MDT / 10:30 AM AEDT - (10/26/2024)
+12:30 AM BST / 01:30 AM CEST / 07:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="1a9aff784b672c20082656e4ff5cac45">
+    <title>Charlotte Hornets v Atlanta Hawks - 10:30 AM AEDT - (26/10/2024)</title>
+    <desc>07:30 PM EDT / 05:30 PM MDT / 10:30 AM AEDT - (10/26/2024)
+12:30 AM BST / 01:30 AM CEST / 07:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="96043f229765410b713d0da9d6d79244">
+    <title>Indiana Pacers v New York Knicks - 10:30 AM AEDT - (26/10/2024)</title>
+    <desc>07:30 PM EDT / 05:30 PM MDT / 10:30 AM AEDT - (10/26/2024)
+12:30 AM BST / 01:30 AM CEST / 07:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="034f5ba4b9e62d7fe93f3ddab9733535">
+    <title>Flex Fight Series - 11:00 AM AEDT - (26/10/2024)</title>
+    <desc>08:00 PM EDT / 06:00 PM MDT / 11:00 AM AEDT - (10/26/2024)
+01:00 AM BST / 02:00 AM CEST / 08:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="bdd191c2ca5d737e4fb729473d17c1ac">
+    <title>BKFC 67: Camozzi v Depee - Prelims - 11:00 AM AEDT - (26/10/2024)</title>
+    <desc>08:00 PM EDT / 06:00 PM MDT / 11:00 AM AEDT - (10/26/2024)
+01:00 AM BST / 02:00 AM CEST / 08:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="b70313dc32d3e6039b68cc951d7efb3a">
+    <title>Chicago Bulls v Milwaukee Bucks - 11:00 AM AEDT - (26/10/2024)</title>
+    <desc>08:00 PM EDT / 06:00 PM MDT / 11:00 AM AEDT - (10/26/2024)
+01:00 AM BST / 02:00 AM CEST / 08:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="a5b174dc5a47a98e98a90356066d2c13">
+    <title>Memphis Grizzlies v Houston Rockets - 11:00 AM AEDT - (26/10/2024)</title>
+    <desc>08:00 PM EDT / 06:00 PM MDT / 11:00 AM AEDT - (10/26/2024)
+01:00 AM BST / 02:00 AM CEST / 08:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="1af716ae6c64225183cdbb9635a4eaaa">
+    <title>New York Yankees v Los Angeles Dodgers - 11:00 AM AEDT - (26/10/2024)</title>
+    <desc>08:00 PM EDT / 06:00 PM MDT / 11:00 AM AEDT - (10/26/2024)
+01:00 AM BST / 02:00 AM CEST / 08:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="62aff7286962e8bdc0885458276ea358">
+    <title>Nashville Predators v Chicago Blackhawks - 11:30 AM AEDT - (26/10/2024)</title>
+    <desc>08:30 PM EDT / 06:30 PM MDT / 11:30 AM AEDT - (10/26/2024)
+01:30 AM BST / 02:30 AM CEST / 08:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="684dbe076c13c4f8f91cceddf805e3ef">
+    <title>Hisako Higuchi Mitsubishi Electric Ladies Golf Tournament Day 2 - 11:30 AM AEDT - (26/10/2024)</title>
+    <desc>08:30 PM EDT / 06:30 PM MDT / 11:30 AM AEDT - (10/26/2024)
+01:30 AM BST / 02:30 AM CEST / 08:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="b47a810e4615cc19aa1f0fd6d0f101fc">
+    <title>BKFC 67: Camozzi v Depee - 12:00 PM AEDT - (26/10/2024)</title>
+    <desc>09:00 PM EDT / 07:00 PM MDT / 12:00 PM AEDT - (10/26/2024)
+02:00 AM BST / 03:00 AM CEST / 09:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="eed26d0670c5c87ef84dd939375992b7">
+    <title>Seattle v Prince Albert - 12:00 PM AEDT - (26/10/2024)</title>
+    <desc>09:00 PM EDT / 07:00 PM MDT / 12:00 PM AEDT - (10/26/2024)
+02:00 AM BST / 03:00 AM CEST / 09:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="c0b74ac2a5d2216d81d6c7137f8af3a6">
+    <title>Medicine Hat v Red Deer - 12:00 PM AEDT - (26/10/2024)</title>
+    <desc>09:00 PM EDT / 07:00 PM MDT / 12:00 PM AEDT - (10/26/2024)
+02:00 AM BST / 03:00 AM CEST / 09:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="e9328b6a952847b97bfa053ddc08468d">
+    <title>Pittsburgh Penguins v Edmonton Oilers - 12:00 PM AEDT - (26/10/2024)</title>
+    <desc>09:00 PM EDT / 07:00 PM MDT / 12:00 PM AEDT - (10/26/2024)
+02:00 AM BST / 03:00 AM CEST / 09:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="9e32a73f3f60d67043b11c142fbe65a4">
+    <title>Golden State Warriors v Utah Jazz - 12:30 PM AEDT - (26/10/2024)</title>
+    <desc>09:30 PM EDT / 07:30 PM MDT / 12:30 PM AEDT - (10/26/2024)
+02:30 AM BST / 03:30 AM CEST / 09:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="17d4fb343b54e34badc60df680beca6b">
+    <title>LFA 195 - 01:00 PM AEDT - (26/10/2024)</title>
+    <desc>10:00 PM EDT / 08:00 PM MDT / 01:00 PM AEDT - (10/26/2024)
+03:00 AM BST / 04:00 AM CEST / 10:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="0e0b53751219416138c6fec7116636f8">
+    <title>Victoria v Prince George - 01:00 PM AEDT - (26/10/2024)</title>
+    <desc>10:00 PM EDT / 08:00 PM MDT / 01:00 PM AEDT - (10/26/2024)
+03:00 AM BST / 04:00 AM CEST / 10:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="5ff0a10bb17788ff95b4b45d317a73cf">
+    <title>Phoenix Suns v Los Angeles Lakers - 01:00 PM AEDT - (26/10/2024)</title>
+    <desc>10:00 PM EDT / 08:00 PM MDT / 01:00 PM AEDT - (10/26/2024)
+03:00 AM BST / 04:00 AM CEST / 10:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="6bfc15d4a7afca026fe6645ce6a8577b">
+    <title>New Orleans Pelicans v Portland Trail Blazers - 01:00 PM AEDT - (26/10/2024)</title>
+    <desc>10:00 PM EDT / 08:00 PM MDT / 01:00 PM AEDT - (10/26/2024)
+03:00 AM BST / 04:00 AM CEST / 10:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="5c5707d89fa97ff2a70d40e5bb460daf">
+    <title>Vancouver v Spokane - 01:05 PM AEDT - (26/10/2024)</title>
+    <desc>10:05 PM EDT / 08:05 PM MDT / 01:05 PM AEDT - (10/26/2024)
+03:05 AM BST / 04:05 AM CEST / 10:05 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="c33c93100619b9c4a0536b104b3f58ec">
+    <title>Reds v Rebels - 01:30 PM AEDT - (26/10/2024)</title>
+    <desc>10:30 PM EDT / 08:30 PM MDT / 01:30 PM AEDT - (10/26/2024)
+03:30 AM BST / 04:30 AM CEST / 10:30 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="cca74f0ee798d35ed6d92a7e3b594b4b">
+    <title>Lethbridge v Swift Current - 02:00 PM AEDT - (26/10/2024)</title>
+    <desc>11:00 PM EDT / 09:00 PM MDT / 02:00 PM AEDT - (10/26/2024)
+04:00 AM BST / 05:00 AM CEST / 11:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="c74ca7075ae5d3b57f015f34c81cc1d8">
+    <title>Zozo Championship, Third Round - 02:00 PM AEDT - (26/10/2024)</title>
+    <desc>11:00 PM EDT / 09:00 PM MDT / 02:00 PM AEDT - (10/26/2024)
+04:00 AM BST / 05:00 AM CEST / 11:00 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="c7f73cf55c697eebe85d056b75e2cfbb">
+    <title>India v New Zealand - 02:50 PM AEDT - (26/10/2024)</title>
+    <desc>11:50 PM EDT / 09:50 PM MDT / 02:50 PM AEDT - (10/26/2024)
+04:50 AM BST / 05:50 AM CEST / 11:50 AM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="b2b1c0d82beae64e70a109ae55f14f1c">
+    <title>Pakistan v England - 03:30 PM AEDT - (26/10/2024)</title>
+    <desc>12:30 AM EDT / 10:30 PM MDT / 03:30 PM AEDT - (10/26/2024)
+05:30 AM BST / 06:30 AM CEST / 12:30 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="98342d1aa51f25b1275c990d1663c4ec">
+    <title>Port Adelaide Power v Gold Coast Suns - 04:00 PM AEDT - (26/10/2024)</title>
+    <desc>01:00 AM EDT / 11:00 PM MDT / 04:00 PM AEDT - (10/26/2024)
+06:00 AM BST / 07:00 AM CEST / 01:00 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="fdcd7158a86854ab43d489b0932324f9">
+    <title>New Zealand Breakers v Adelaide 36ers - 04:30 PM AEDT - (26/10/2024)</title>
+    <desc>01:30 AM EDT / 11:30 PM MDT / 04:30 PM AEDT - (10/26/2024)
+06:30 AM BST / 07:30 AM CEST / 01:30 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="574442f1c8de1f6dcec47550469ba5fa">
+    <title>Japan v New Zealand - 05:00 PM AEDT - (26/10/2024)</title>
+    <desc>02:00 AM EDT / 12:00 AM MDT / 05:00 PM AEDT - (10/26/2024)
+07:00 AM BST / 08:00 AM CEST / 02:00 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="03720ca315eceb1f24908efad675638f">
+    <title>Geelong Cats v West Coast Eagles - 06:00 PM AEDT - (26/10/2024)</title>
+    <desc>03:00 AM EDT / 01:00 AM MDT / 06:00 PM AEDT - (10/26/2024)
+08:00 AM BST / 09:00 AM CEST / 03:00 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="17435b0aca55b81dfe9dd75055f68b8c">
+    <title>Illawarra Hawks v Cairns Taipans - 06:30 PM AEDT - (26/10/2024)</title>
+    <desc>03:30 AM EDT / 01:30 AM MDT / 06:30 PM AEDT - (10/26/2024)
+08:30 AM BST / 09:30 AM CEST / 03:30 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="dbdeae5f79b131a70c0c8332ec554ba1">
+    <title>Sri Lanka v West Indies - 08:00 PM AEDT - (26/10/2024)</title>
+    <desc>05:00 AM EDT / 03:00 AM MDT / 08:00 PM AEDT - (10/26/2024)
+10:00 AM BST / 11:00 AM CEST / 05:00 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="39cc777fc77dc09832de4d13368a6a44">
+    <title>Betvictor: N Ireland Open Day 6 - Table 1 - 08:00 PM AEDT - (26/10/2024)</title>
+    <desc>05:00 AM EDT / 03:00 AM MDT / 08:00 PM AEDT - (10/26/2024)
+10:00 AM BST / 11:00 AM CEST / 05:00 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="c4338eb1b928ea6270d4b8b337a8a7cd">
+    <title>Betvictor: N Ireland Open Day 6 - Table 2 - 08:00 PM AEDT - (26/10/2024)</title>
+    <desc>05:00 AM EDT / 03:00 AM MDT / 08:00 PM AEDT - (10/26/2024)
+10:00 AM BST / 11:00 AM CEST / 05:00 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="12f074d5e278ef8739a1cdfceb95b6db">
+    <title>Richmond Tigers v Essendon Bombers - 08:00 PM AEDT - (26/10/2024)</title>
+    <desc>05:00 AM EDT / 03:00 AM MDT / 08:00 PM AEDT - (10/26/2024)
+10:00 AM BST / 11:00 AM CEST / 05:00 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="9dd5b6f0c7118862bd0b99f8cd91ae84">
+    <title>Dream11 ECC Challenger, 2024 | Group 1, Day 1 - 08:15 PM AEDT - (26/10/2024)</title>
+    <desc>05:15 AM EDT / 03:15 AM MDT / 08:15 PM AEDT - (10/26/2024)
+10:15 AM BST / 11:15 AM CEST / 05:15 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="5abab273b94e339c8f52d8535490697d">
+    <title>Swimming WC: Korea Day 3 - 09:30 PM AEDT - (26/10/2024)</title>
+    <desc>06:30 AM EDT / 04:30 AM MDT / 09:30 PM AEDT - (10/26/2024)
+11:30 AM BST / 12:30 PM CEST / 06:30 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="bc4ba61a178457837554d3eee062439c">
+    <title>DHL Stormers v Glasgow Warriors - 10:45 PM AEDT - (26/10/2024)</title>
+    <desc>07:45 AM EDT / 05:45 AM MDT / 10:45 PM AEDT - (10/26/2024)
+12:45 PM BST / 01:45 PM CEST / 07:45 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="2402d7b7938ccc37a08c6d94049768ac">
+    <title>Center Cour - Erste Bank Open - 11:00 PM AEDT - (26/10/2024)</title>
+    <desc>08:00 AM EDT / 06:00 AM MDT / 11:00 PM AEDT - (10/26/2024)
+01:00 PM BST / 02:00 PM CEST / 08:00 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="b5e92f4c8327bb78290ab5d73eb51436">
+    <title>Center Court - Swiss Indoors Basel - 11:00 PM AEDT - (26/10/2024)</title>
+    <desc>08:00 AM EDT / 06:00 AM MDT / 11:00 PM AEDT - (10/26/2024)
+01:00 PM BST / 02:00 PM CEST / 08:00 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="f582064712b84d5a8cf9ec8883cfa3d9">
+    <title>UFC 308: PRELIMS - 01:00 AM AEDT - (27/10/2024)</title>
+    <desc>10:00 AM EDT / 08:00 AM MDT / 01:00 AM AEDT - (10/26/2024)
+03:00 PM BST / 04:00 PM CEST / 10:00 PM CST - (10/26/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="1778ce75fe981a85267c1cb263fff01d">
+    <title>KOK WORLD SERIES IN SLOVAKIA - 03:00 AM AEDT - (27/10/2024)</title>
+    <desc>12:00 PM EDT / 10:00 AM MDT / 03:00 AM AEDT - (10/27/2024)
+05:00 PM BST / 06:00 PM CEST / 12:00 AM CST - (10/27/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="c53fb3a04de193ace5e39b5392f7ced4">
+    <title>NASCAR Craftsman Truck Series Playoff Race at Homestead-Miami - 03:00 AM AEDT - (27/10/2024)</title>
+    <desc>12:00 PM EDT / 10:00 AM MDT / 03:00 AM AEDT - (10/27/2024)
+05:00 PM BST / 06:00 PM CEST / 12:00 AM CST - (10/27/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="215e43c5af86913a2661e2a2f21aab3c">
+    <title>Leinster v Emirates Lions - 03:15 AM AEDT - (27/10/2024)</title>
+    <desc>12:15 PM EDT / 10:15 AM MDT / 03:15 AM AEDT - (10/27/2024)
+05:15 PM BST / 06:15 PM CEST / 12:15 AM CST - (10/27/2024)</desc>
+  </programme>
+  <programme start="20241024211025 +0000" stop="20241026211025 +0000" channel="254e456dbfda003f8a4f78a0afba5a8e">
+    <title>Saracens v Leicester - 03:30 AM AEDT - (27/10/2024)</title>
+    <desc>12:30 PM EDT / 10:30 AM MDT / 03:30 AM AEDT - (10/27/2024)
+05:30 PM BST / 06:30 PM CEST / 12:30 AM CST - (10/27/2024)</desc>
+  </programme>
+</tv>
